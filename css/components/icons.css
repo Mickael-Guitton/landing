@@ -1,0 +1,14 @@
+.icons {
+  display: flex;
+  justify-content: center;
+}
+
+.icons a{
+  font-size: 30px;
+  color: #1EDD88;
+  margin: 0 3px 0 3px;
+}
+
+.fas {
+  color: #BF0F12;;
+}
